@@ -1,4 +1,4 @@
-# ML_plot
+# Machine Learning Plot
 When we do machine learning project, or other scientist activities like math modeling and so on. It's unavoidable to visualize your result. <br>
 But we all know plotting is a kind of  Boilerplate code. So I decided to create a repo to record the code when we need to plot.<br>
 <br>
